@@ -3,12 +3,12 @@
     "CASES": "Smooch customers are making more than 17 million customers happy %[Read Case Studies](www.smooch.io/customers)",
     "MESSENGER": "Very excited to launch the new Messenger Integration. Check it out! %[Read about Messenger](www.smooch.io)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "hi": hello
-    "hello": what's up?
-    "hey": hi!
-    "how are you": i'm ok, how are you?
-    "?": it seems like you have a question
-    "i do": cookies are good
+    "hi": "hello",
+    "hello": "what's up?",
+    "hey": "hi!",
+    "how are you": "i'm ok, how are you?",
+    "?": "it seems like you have a question",
+    "i do": "cookies are good",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
