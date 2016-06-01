@@ -1,6 +1,7 @@
 {
     "HELLO": "hi! what's up? are you a FRIEND or PR PERSON?",
     "FRIEND": "Hello, friend! What's goin on. Ask 'What are you working on?'",
+    "WHAT ARE YOU WORKING ON": "I'm working on a story about writing this bot, actually. Super meta right?",
     "NOT MUCH": "Do you want to know what I like to cover in tech? Say 'YES, I WANT TO KNOW WHAT YOU COVER IN TECH', or 'NO, I'M JUST LOOKING AROUND.'",
     "YES I WANT TO KNOW WHAT YOU COVER IN TECH": "I like to write about robots, artificial intelligence and virtual reality. Probably in that order :)",
     "TODAY": "I'm working on a story about writing this bot, actually. Super meta right?",
